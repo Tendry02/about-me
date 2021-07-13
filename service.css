@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(3, 3, 27);
+    background-image: url('page-header.jpg');
+}
+
+h3 {
+    color: rgb(86, 6, 110);
+    font-size: 25px;
+}
+
+h2 {
+    color: rgb(8, 211, 126);
+}
+
+p.why-box {
+    animation: why_anim 10s;
+}
+
+@keyframes Why_anim {
+    0% {
+        transform: translateX(150px);
+    }
+}
+
+h4 {
+    color: whitesmoke;
+    font-size: 15px;
+}

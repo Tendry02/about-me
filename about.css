@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, rgb(9, 9, 49), rgb(0, 35, 75));
+    background-color: rgb(9, 9, 49);
+}
+
+.contact {
+    margin-top: 5%;
+}
+
+.vide {
+    background-image: url("page-header.jpg");
+    position: relative;
+}
+
+h2 {
+    color: cyan;
+}
